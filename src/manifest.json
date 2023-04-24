@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"id": "com.lsm.export-notebook-to-pdf",
+	"app_min_version": "2.8",
+	"version": "1.0.0",
+	"name": "export notebook to pdf",
+	"description": "export the entire notenook, each note as a pdf file",
+	"author": "lsm",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": [],
+	"categories": []
+}
